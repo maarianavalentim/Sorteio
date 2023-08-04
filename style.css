@@ -1,0 +1,34 @@
+body{
+    width: auto;
+    height: 600px;
+    background-image: linear-gradient(to bottom,#ff00d4, rgba(195, 0, 255, 0.893),rgb(0, 8, 255));
+}
+.container{
+    background-color:rgb(255, 228, 251);
+    display: flexbox;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 8px;
+    margin: 500px;
+    text-align: center;
+    padding: 50px;
+    margin-top: 150px;
+    }
+  h2{
+    color: rgb(0, 0, 0);
+    font: 35px 'Serif';
+  }
+  .entrada{
+    padding: 10px;
+    font: 25px 'Geneva';
+
+  }
+  input{
+    background-color: rgb(255, 189, 245);
+
+  }
+  button{
+    background-color: rgb(255, 189, 245);
+    font: 20px 'Geneva' ;
+    
+  }
